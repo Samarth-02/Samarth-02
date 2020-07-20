@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there, I'm Samarth 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
-  <br><img src="https://github.com/Samarth-02/Samarth-02/blob/master/avento.gif" width="600px"><br><br>
+  <br><img src="https://github.com/Samarth-02/Samarth-02/blob/master/avento.gif" width="450px"><br><br>
   <samp> I'm an ethusiastic fresher pursuing B.E in Information Science from DSI Bangalore. I'm passionate about developing MERN Stack websites. I am looking forward to work both in frontend and backend. I'm a keen learner and a tech enthusiast and constantly updating my knowledge base.
   </samp>
   <br>
