@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/Samarth-02/Samarth-02/blob/master/avento.gif" width="450px"><br><br>
-  <samp> I'm an ethusiastic fresher pursuing B.E in Information Science from DSI Bangalore. I'm passionate about developing MERN Stack websites. I am looking forward to work both in frontend and backend. I'm a keen learner and a tech enthusiast and constantly updating my knowledge base.
+  <samp> Software Engineer and tech enthusiast with hands on experience in designing, building and working with large scale systems.
   </samp>
   <br>
   
